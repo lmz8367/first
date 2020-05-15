@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+    <!--[if lte IE 6 ]>
+    <html class="ie ie6 lte_ie7 lte_ie8 lte_ie9 " lang="zh-CN"> <![endif]-->
+    <!--[if IE 7 ]>
+    <html class="ie ie7 lte_ie7 lte_ie8 lte_ie9 " lang="zh-CN"> <![endif]-->
+    <!--[if IE 8 ]>
+    <html class="ie ie8 lte_ie8 lte_ie9 " lang="zh-CN"> <![endif]-->
+    <!--[if IE 9 ]>
+    <html class="ie ie9 lte_ie9 " lang="zh-CN"> <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!-->
+    <html lang="zh-CN">
+    <!--<![endif]-->
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>第1章  第一章职场秘密康帅傅冰红茶最新章节-免费小说-全文免费阅读-康帅傅冰红茶作品-小说大全-七猫免费小说-七猫中文网</title>
+
+        <link rel="shortcut icon" href="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/images//common/favicon.ico"/>
+        <meta name='keywords' content='《我的老婆是总裁》,《我的老婆是总裁》最新章节,《我的老婆是总裁》全文阅读,《我的老婆是总裁》下载app免费阅读，康帅傅冰红茶小说《我的老婆是总裁》，《我的老婆是总裁》全本免费下载'/>
+<meta name='description' content='七猫中文网（免费小说大全）与国内各大小说站合作，七猫免费小说为小说爱好者提供更多更全的各类免费小说上百万本授权小说，想看康帅傅冰红茶（作者）所著我的老婆是总裁小说作品，现在下载七猫免费小说app即可免费阅读！七猫中文网只有想不到，没有找不到！'/>
+<link href="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/css/global.css?v=15840" rel="stylesheet">
+<link href="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/css/reader.css?v=1582252560" rel="stylesheet" 0="frontend\assets\AppAsset">    </head>
+    <body  oncontextmenu="return false" onselectstart="return false" oncopy = "return false" >
+<!-- 左侧工具 返回 指南 -->
+<div class="left-tools">
+    <a href="/shuku/151812/" class="back" target="_blank"><i
+
+                class="iconfont">&#xe648;</i><em>返回</em></a>
+    <a href="javascript:;" class="guide js-pop-show-btn" pop-name="guide-pop">指南</a>
+</div>
+<!-- 左侧工具 返回 指南 -->
+<div class="qm-pop-mask js-pop-mask"></div>
+
+<!-- 指南弹窗 -->
+<div class="qm-pop qm-pop-guide width-388 js-pop" pop-name="guide-pop">
+    <a href="javascript:void(0);" class="qm-pop-close-btn js-pop-hide-btn" pop-name="guide-pop"><i class="iconfont">&#xe651;</i></a>
+    <div class="qm-pop-th">
+        <span class="s-tit">快捷键指南</span>
+    </div>
+    <div class="qm-pop-tb clearfix">
+        <div class="left-guide">
+            <span class="s-txt">全屏模式</span>
+            <i class="icon-key-f11"></i>
+        </div>
+        <div class="right-guide">
+            <span class="s-txt">上下移动</span>
+            <i class="icon-key-up"></i><i class="icon-key-down"></i>
+        </div>
+    </div>
+    <div class="qm-pop-tf">
+        <p class="p-btn"><a href="" class="qm-btn gradient js-pop-hide-btn" size="44" pop-name="guide-pop">知道了</a></p>
+    </div>
+</div>
+
+<!-- 举报弹窗 -->
+<div class="qm-pop qm-pop-inform width-582 js-pop" pop-name="inform-pop">
+    <a href="javascript:void(0);" class="qm-pop-close-btn js-pop-hide-btn" pop-name="inform-pop"><i class="iconfont">&#xe651;</i></a>
+    <div class="qm-pop-th">
+        <span class="s-tit">举报</span>
+    </div>
+    <div class="qm-pop-tb">
+        <ul class="qm-form">
+            <li class="item clearfix">
+                <label for=""><em>*</em> 举报类型</label>
+                <div class="form-item">
+                    <div class="qm-form-select js-select js-report-select">
+                        <input type="hidden" value="">
+                        <span class="selected-option js-select-value"></span>
+                        <i class="iconfont arrow">&#xe657;</i>
+                        <ul class="options js-select-options"></ul>
+                    </div>
+                </div>
+            </li>
+            <li class="item clearfix">
+                <label for=""><em>*</em> 章节链接</label>
+                <div class="form-item">
+                    <div class="form-textarea">
+                        <textarea name="" id="" class="js-chapter-url"></textarea>
+                    </div>
+                </div>
+            </li>
+            <li class="item clearfix">
+                <label for=""><em>*</em> 举报内容</label>
+                <div class="form-item">
+                    <div class="form-textarea">
+                        <textarea name="" id="" class="js-report-cont"></textarea>
+                    </div>
+                </div>
+            </li>
+            <li class="item no-mb hide clearfix js-report-guide">
+                <div class="form-item">
+                    <a href="/complaint_guide.html" target="_blank" class="link red">关于作品涉嫌抄袭的投诉指引 ></a>
+                </div>
+            </li>
+            <li class="item no-mb clearfix">
+                <label for="">举报电话</label>
+                <div class="form-item">
+                    <span class="s-txt">021-39983366-8025（周一到周五 9:00-18:00）</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="qm-pop-tf">
+        <p class="p-btn"><a href="javascript:;" class="qm-btn gradient js-submit-report-cont" size="44">提交</a></p>
+    </div>
+</div>
+<!-- 举报弹窗 -->
+
+
+<!-- 目录弹窗 -->
+<div class="reader-pop catalogue hide js-reader-pop" pop-name="catalogue">
+    <div class="th clearfix">
+        <h1>目录</h1>
+        <p class="p-fun qm-btn-select yellow js-sort-btn">
+            <a href="javascript:void(0)" class="first cur" sort-type="ascending"><em>升序</em></a>
+            <a href="javascript:void(0)" class="last" sort-type="descending"><em>倒序</em></a>
+        </p>
+    </div>
+    <div class="tb">
+        <h2>第一卷 共123章</h2>
+        <div class="catalogue-list js-catalogue-list">
+            <ul class="clearfix js-sort-data" sort-type="ascending" style="display: block;">
+                                        <li>
+                            <a href="/shuku/151812-356801/" target="_blank">第1章  第一章职场秘密                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-356857/" target="_blank">第2章  第二章阴谋                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357207/" target="_blank">第3章  第三章午餐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357785/" target="_blank">第4章  第四章危机                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357786/" target="_blank">第5章  第五章对方来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357787/" target="_blank">第6章  第六章毫无进展                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357788/" target="_blank">第7章  第七章绑架？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-358408/" target="_blank">第8章  第八章乌龙？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359165/" target="_blank">第9章  第九章脱困                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359300/" target="_blank">第10章  第十章意外的新室友                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359864/" target="_blank">第11章  第十一章黑幕下的龌蹉（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359936/" target="_blank">第12章  第十二章夜幕下的龌蹉（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360205/" target="_blank">第13章  第十三章退房租（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360526/" target="_blank">第14章  第十四章退房租（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360966/" target="_blank">第15章  第十五章刑讯逼供                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361075/" target="_blank">第16章  第十六章意料之外                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361303/" target="_blank">第17章  第十七章裁员计划                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361740/" target="_blank">第18章  第十八章危机浮现                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362120/" target="_blank">第19章  第十九章问题的关键                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362265/" target="_blank">第20章  第二十章姐弟                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362547/" target="_blank">第21章  第二十一章谋划                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363157/" target="_blank">第22章  第二十二章醉酒                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363355/" target="_blank">第23章  第二十三章迷惑的程序                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363462/" target="_blank">第24章  第二十四章经理的激励（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363569/" target="_blank">第25章  第二十五章经理的激励（中）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363829/" target="_blank">第26章  第二十六章经理的激励（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-364581/" target="_blank">第27章  第二十七章密谋（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366051/" target="_blank">第28章  第二十八章密谋（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366099/" target="_blank">第29章  第二十九章两难境地                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366285/" target="_blank">第30章  第三十章未婚夫                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366957/" target="_blank">第31章  第三十一章朴经理的秘闻（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367772/" target="_blank">第32章  第三十二章朴经理的秘密（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367776/" target="_blank">第33章  第三十三章丢失的拷贝                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367778/" target="_blank">第34章  第三十四章项目之争                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367956/" target="_blank">第35章  第三十五章走钢丝                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368910/" target="_blank">第36章  第三十六章表面和谐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368911/" target="_blank">第37章  第三十七章深夜魅影                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368913/" target="_blank">第38章  第三十八章公司聚餐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368915/" target="_blank">第39章  第三十九章我们一起生孩子吧                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370336/" target="_blank">第40章  第四十章男人的定力                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370337/" target="_blank">第41章  第四十一章酒醒时分                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370338/" target="_blank">第42章  第四十二章迟到风波                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370339/" target="_blank">第43章  第四十三章办公室的倩影                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370372/" target="_blank">第44章  第四十四章两份处罚决定书                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370401/" target="_blank">第45章  第四十五章对方动机是什么                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370435/" target="_blank">第46章  第四十六章朴喜英来我家（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370552/" target="_blank">第47章  第四十七章朴喜英来我家（中）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-371659/" target="_blank">第48章  第四十八章朴喜英来我家（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372593/" target="_blank">第49章  第四十九章裁员谈话                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372801/" target="_blank">第50章  第五十章路过的领导                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372972/" target="_blank">第51章  第五十一章午夜惊魂                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373008/" target="_blank">第52章  第五十二章胖瘦警察                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373772/" target="_blank">第53章  第五十三章两拨警察                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373890/" target="_blank">第54章  第五十四章幕后之人                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374934/" target="_blank">第55章  第五十五章单身派对前的准备工作                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374958/" target="_blank">第56章  第五十六章天价正装                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374984/" target="_blank">第57章  第五十七章抬车（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-375051/" target="_blank">第58章  第五十八章抬车（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-375184/" target="_blank">第59章  第五十九章漂亮的公关部                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376224/" target="_blank">第60章  第六十章一起跳舞吧                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376225/" target="_blank">第61章  第六十一章护夫                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376227/" target="_blank">第62章  第六十二章挑衅                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376228/" target="_blank">第63章  第六十三章智慧和财力的比拼                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376398/" target="_blank">第64章  第六十四章面子丢大了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377348/" target="_blank">第65章  第六十五章黑客入侵                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377597/" target="_blank">第66章  第六十六章落败                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377802/" target="_blank">第67章  第六十七章孤军奋战                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377818/" target="_blank">第68章  第六十八章以静制动                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378293/" target="_blank">第69章  第六十九章‘追责大会’？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378295/" target="_blank">第70章  第七十章一击必杀                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378515/" target="_blank">第71章  第七十一章绝地反击                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378516/" target="_blank">第72章  第七十二章不情愿的请客                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378900/" target="_blank">第73章  第七十三章鬼祟的朴经理                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-379694/" target="_blank">第74章  第七十四章包房中的故人                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-379888/" target="_blank">第75章  第七十五章盛情邀请                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380131/" target="_blank">第76章  第七十六章脱困                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380593/" target="_blank">第77章  第七十七章第二个合租美女                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380669/" target="_blank">第78章  第七十八章好像出差错了（一）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380873/" target="_blank">第79章  第七十九章好像出差错了（二）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380874/" target="_blank">第80章  第八十章好像哪里出错了（三）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382185/" target="_blank">第81章  第八十一章好像出差错了（四）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382186/" target="_blank">第82章  第八十二章好像出差错了（五）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382187/" target="_blank">第83章  第八十三章大阴谋                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382315/" target="_blank">第84章  第八十四章夜半解秘                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382830/" target="_blank">第85章  第八十五章落入陷阱                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383226/" target="_blank">第86章  第八十六章致命枪声                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383227/" target="_blank">第87章  第八十七章反转                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383637/" target="_blank">第88章  第八十八章投案自首                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383641/" target="_blank">第89章  第八十九章真相                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384482/" target="_blank">第90章  第九十章监察部门的成立                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384483/" target="_blank">第91章  第九十一章监察部门的冷场                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384671/" target="_blank">第92章  第九十二章监察部门的立威                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384755/" target="_blank">第93章  第九十三章探监                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-385975/" target="_blank">第94章  第九十四章灭口                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-387283/" target="_blank">第95章  第九十五章擒贼擒王                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-387284/" target="_blank">第96章  第九十六章解决矛盾的办法                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-388285/" target="_blank">第97章  第九十七章安置员工                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-389133/" target="_blank">第98章  第九十八章除掉心腹                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-389464/" target="_blank">第99章  第九十九章刀架脖子                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390465/" target="_blank">第100章  第一百章除掉左膀右臂                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390921/" target="_blank">第101章  第一百零一章酒后失忆                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390922/" target="_blank">第102章  第一百零二章退避三舍                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-391784/" target="_blank">第103章  第一百零三章争功                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392064/" target="_blank">第104章  第一百零四章董事大会                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392224/" target="_blank">第105章  第一百零五章绝地反击                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392227/" target="_blank">第106章  第一百零六章广泛牵连                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392625/" target="_blank">第107章  第一百零七章乾坤独断                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-394616/" target="_blank">第108章  第一百零八章闹得越大越好                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-394631/" target="_blank">第109章  第一百零九章被我闹出来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-395030/" target="_blank">第110章  第一百一十章李老来访                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-395031/" target="_blank">第111章  第一百一十一章冒险的合作                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396240/" target="_blank">第112章  第一百一十二章交锋（1）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396241/" target="_blank">第113章  第一百一十三章交锋（2）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396242/" target="_blank">第114章  第一百一十四章交锋（3）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396243/" target="_blank">第115章  第一百一十五章交锋（4）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397769/" target="_blank">第116章  第一百一十六章盯梢                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397771/" target="_blank">第117章  第一百一十七章投怀送情报                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397773/" target="_blank">第118章  第一百一十八章秘而不宣                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-398711/" target="_blank">第119章  第一百一十九章张玲来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-398995/" target="_blank">第120章  第一百二十章矛盾                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-399764/" target="_blank">第121章  第一百二十一章朴喜英的相亲                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-400026/" target="_blank">第122章  第一百二十二章我的女朋友                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-405397/" target="_blank">第123章  第一百二十三章终章                                </a>
+                        </li>
+                                </ul>
+
+            <ul class="clearfix js-sort-data" sort-type="descending" style="display: none">
+                                        <li>
+                            <a href="/shuku/151812-405397/" target="_blank">第123章  第一百二十三章终章                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-400026/" target="_blank">第122章  第一百二十二章我的女朋友                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-399764/" target="_blank">第121章  第一百二十一章朴喜英的相亲                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-398995/" target="_blank">第120章  第一百二十章矛盾                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-398711/" target="_blank">第119章  第一百一十九章张玲来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397773/" target="_blank">第118章  第一百一十八章秘而不宣                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397771/" target="_blank">第117章  第一百一十七章投怀送情报                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-397769/" target="_blank">第116章  第一百一十六章盯梢                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396243/" target="_blank">第115章  第一百一十五章交锋（4）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396242/" target="_blank">第114章  第一百一十四章交锋（3）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396241/" target="_blank">第113章  第一百一十三章交锋（2）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-396240/" target="_blank">第112章  第一百一十二章交锋（1）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-395031/" target="_blank">第111章  第一百一十一章冒险的合作                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-395030/" target="_blank">第110章  第一百一十章李老来访                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-394631/" target="_blank">第109章  第一百零九章被我闹出来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-394616/" target="_blank">第108章  第一百零八章闹得越大越好                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392625/" target="_blank">第107章  第一百零七章乾坤独断                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392227/" target="_blank">第106章  第一百零六章广泛牵连                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392224/" target="_blank">第105章  第一百零五章绝地反击                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-392064/" target="_blank">第104章  第一百零四章董事大会                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-391784/" target="_blank">第103章  第一百零三章争功                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390922/" target="_blank">第102章  第一百零二章退避三舍                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390921/" target="_blank">第101章  第一百零一章酒后失忆                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-390465/" target="_blank">第100章  第一百章除掉左膀右臂                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-389464/" target="_blank">第99章  第九十九章刀架脖子                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-389133/" target="_blank">第98章  第九十八章除掉心腹                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-388285/" target="_blank">第97章  第九十七章安置员工                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-387284/" target="_blank">第96章  第九十六章解决矛盾的办法                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-387283/" target="_blank">第95章  第九十五章擒贼擒王                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-385975/" target="_blank">第94章  第九十四章灭口                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384755/" target="_blank">第93章  第九十三章探监                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384671/" target="_blank">第92章  第九十二章监察部门的立威                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384483/" target="_blank">第91章  第九十一章监察部门的冷场                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-384482/" target="_blank">第90章  第九十章监察部门的成立                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383641/" target="_blank">第89章  第八十九章真相                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383637/" target="_blank">第88章  第八十八章投案自首                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383227/" target="_blank">第87章  第八十七章反转                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-383226/" target="_blank">第86章  第八十六章致命枪声                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382830/" target="_blank">第85章  第八十五章落入陷阱                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382315/" target="_blank">第84章  第八十四章夜半解秘                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382187/" target="_blank">第83章  第八十三章大阴谋                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382186/" target="_blank">第82章  第八十二章好像出差错了（五）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-382185/" target="_blank">第81章  第八十一章好像出差错了（四）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380874/" target="_blank">第80章  第八十章好像哪里出错了（三）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380873/" target="_blank">第79章  第七十九章好像出差错了（二）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380669/" target="_blank">第78章  第七十八章好像出差错了（一）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380593/" target="_blank">第77章  第七十七章第二个合租美女                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-380131/" target="_blank">第76章  第七十六章脱困                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-379888/" target="_blank">第75章  第七十五章盛情邀请                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-379694/" target="_blank">第74章  第七十四章包房中的故人                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378900/" target="_blank">第73章  第七十三章鬼祟的朴经理                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378516/" target="_blank">第72章  第七十二章不情愿的请客                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378515/" target="_blank">第71章  第七十一章绝地反击                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378295/" target="_blank">第70章  第七十章一击必杀                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-378293/" target="_blank">第69章  第六十九章‘追责大会’？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377818/" target="_blank">第68章  第六十八章以静制动                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377802/" target="_blank">第67章  第六十七章孤军奋战                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377597/" target="_blank">第66章  第六十六章落败                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-377348/" target="_blank">第65章  第六十五章黑客入侵                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376398/" target="_blank">第64章  第六十四章面子丢大了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376228/" target="_blank">第63章  第六十三章智慧和财力的比拼                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376227/" target="_blank">第62章  第六十二章挑衅                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376225/" target="_blank">第61章  第六十一章护夫                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-376224/" target="_blank">第60章  第六十章一起跳舞吧                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-375184/" target="_blank">第59章  第五十九章漂亮的公关部                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-375051/" target="_blank">第58章  第五十八章抬车（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374984/" target="_blank">第57章  第五十七章抬车（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374958/" target="_blank">第56章  第五十六章天价正装                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-374934/" target="_blank">第55章  第五十五章单身派对前的准备工作                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373890/" target="_blank">第54章  第五十四章幕后之人                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373772/" target="_blank">第53章  第五十三章两拨警察                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-373008/" target="_blank">第52章  第五十二章胖瘦警察                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372972/" target="_blank">第51章  第五十一章午夜惊魂                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372801/" target="_blank">第50章  第五十章路过的领导                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-372593/" target="_blank">第49章  第四十九章裁员谈话                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-371659/" target="_blank">第48章  第四十八章朴喜英来我家（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370552/" target="_blank">第47章  第四十七章朴喜英来我家（中）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370435/" target="_blank">第46章  第四十六章朴喜英来我家（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370401/" target="_blank">第45章  第四十五章对方动机是什么                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370372/" target="_blank">第44章  第四十四章两份处罚决定书                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370339/" target="_blank">第43章  第四十三章办公室的倩影                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370338/" target="_blank">第42章  第四十二章迟到风波                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370337/" target="_blank">第41章  第四十一章酒醒时分                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-370336/" target="_blank">第40章  第四十章男人的定力                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368915/" target="_blank">第39章  第三十九章我们一起生孩子吧                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368913/" target="_blank">第38章  第三十八章公司聚餐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368911/" target="_blank">第37章  第三十七章深夜魅影                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-368910/" target="_blank">第36章  第三十六章表面和谐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367956/" target="_blank">第35章  第三十五章走钢丝                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367778/" target="_blank">第34章  第三十四章项目之争                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367776/" target="_blank">第33章  第三十三章丢失的拷贝                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-367772/" target="_blank">第32章  第三十二章朴经理的秘密（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366957/" target="_blank">第31章  第三十一章朴经理的秘闻（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366285/" target="_blank">第30章  第三十章未婚夫                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366099/" target="_blank">第29章  第二十九章两难境地                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-366051/" target="_blank">第28章  第二十八章密谋（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-364581/" target="_blank">第27章  第二十七章密谋（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363829/" target="_blank">第26章  第二十六章经理的激励（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363569/" target="_blank">第25章  第二十五章经理的激励（中）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363462/" target="_blank">第24章  第二十四章经理的激励（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363355/" target="_blank">第23章  第二十三章迷惑的程序                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-363157/" target="_blank">第22章  第二十二章醉酒                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362547/" target="_blank">第21章  第二十一章谋划                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362265/" target="_blank">第20章  第二十章姐弟                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-362120/" target="_blank">第19章  第十九章问题的关键                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361740/" target="_blank">第18章  第十八章危机浮现                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361303/" target="_blank">第17章  第十七章裁员计划                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-361075/" target="_blank">第16章  第十六章意料之外                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360966/" target="_blank">第15章  第十五章刑讯逼供                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360526/" target="_blank">第14章  第十四章退房租（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-360205/" target="_blank">第13章  第十三章退房租（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359936/" target="_blank">第12章  第十二章夜幕下的龌蹉（下）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359864/" target="_blank">第11章  第十一章黑幕下的龌蹉（上）                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359300/" target="_blank">第10章  第十章意外的新室友                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-359165/" target="_blank">第9章  第九章脱困                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-358408/" target="_blank">第8章  第八章乌龙？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357788/" target="_blank">第7章  第七章绑架？                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357787/" target="_blank">第6章  第六章毫无进展                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357786/" target="_blank">第5章  第五章对方来了                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357785/" target="_blank">第4章  第四章危机                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-357207/" target="_blank">第3章  第三章午餐                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-356857/" target="_blank">第2章  第二章阴谋                                </a>
+                        </li>
+                                            <li>
+                            <a href="/shuku/151812-356801/" target="_blank">第1章  第一章职场秘密                                </a>
+                        </li>
+                                </ul>
+        </div>
+    </div>
+    <a href="javascript:;" class="catalogue-close js-close-reader-pop"><i class="iconfont">&#xe651;</i></a>
+</div>
+<!-- 右侧工具 -->
+<div class="right-tools js-right-tools">
+    <dl class="tool-list clearfix">
+        <dd class="attach js-show-reader-pop" pop-name="catalogue">
+            <a href="javascript:;" class="item">
+                <span class="icon-wrap"><i class="iconfont">&#xe64c;</i></span>
+                <span class="s-txt">目录</span>
+            </a>
+        </dd>
+        <dd class="attach js-show-reader-pop" pop-name="read-setting">
+            <a href="javascript:;" class="item">
+                <span class="icon-wrap"><i class="iconfont">&#xe64f;</i></span>
+                <span class="s-txt">阅读设置</span>
+            </a>
+            <div class="reader-pop read-setting hide js-reader-pop" pop-name="read-setting">
+                <div class="th">
+                    <h1>阅读设置</h1>
+                </div>
+                <div class="tb">
+                    <ul class="setting-list">
+                        <li class="setting-item">
+                            <label for="">阅读背景：</label>
+                            <div class="cont">
+                                <ul class="theme-list clearfix js-select-theme">
+                                    <li theme="default" class="cur"></li>
+                                    <li theme="blue"></li>
+                                    <li theme="yellow"></li>
+                                    <li theme="green"></li>
+                                    <li theme="red"></li>
+                                    <li theme="dark"></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="setting-item">
+                            <label for="">字体大小：</label>
+                            <div class="cont">
+                                <ul class="font-size-selector clearfix js-font-size-selector">
+                                    <li class="lager-size" type="smaller"><a href="javascript:;">A-</a></li>
+                                    <li class="cur-size js-cur-fontsize">18</li>
+                                    <li class="smaller-size" type="bigger"><a href="javascript:;">A+</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="setting-item">
+                            <label for="">正文字体：</label>
+                            <div class="cont">
+                                <div class="font-family-selector clearfix js-font-family-selector">
+                                    <a href="javascript:;" class="active" font="default">系统</a>
+                                    <a href="javascript:;" font="songti">宋体</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="btn-wrap">
+                        <a href="javascript:;" class="qm-btn gradient js-reset-theme" size="44">恢复默认</a>
+                    </div>
+                </div>
+                <a href="javascript:;" class="attach-close  js-close-reader-pop"><i class="iconfont">&#xe651;</i></a>
+            </div>
+        </dd>
+        <dd class="attach js-show-reader-pop" pop-name="download-app">
+            <a href="javascript:;" class="item">
+                <span class="icon-wrap"><i class="iconfont">&#xe64b;</i></span>
+                <span class="s-txt">手机阅读</span>
+            </a>
+            <div class="reader-pop app-qr-code hide js-reader-pop" pop-name="download-app">
+                <img class="reader-download-code" src="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/images//reader/reader_download_code.png" alt="">
+                <img class="reader-download-code-night" src=" https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/images//reader/reader_download_code_night.png" alt="">
+            </div>
+        </dd>
+        <!--<dd>-->
+        <!--<a href="javascript:;" class="item">-->
+        <!--<span class="icon-wrap"><i class="iconfont">&#xe649;</i></span>-->
+        <!--<span class="s-txt">加入书架</span>-->
+        <!--</a>-->
+        <!--</dd>-->
+        <!--<dd>-->
+        <!--<a href="javascript:;" class="item">-->
+        <!--<span class="icon-wrap"><i class="iconfont">&#xe64e;</i></span>-->
+        <!--<span class="s-txt">评论</span>-->
+        <!--</a>-->
+        <!--</dd>-->
+        <dd>
+            <a href="javascript:;" class="item js-pop-show-btn" pop-name="inform-pop">
+                <span class="icon-wrap"><i class="iconfont">&#xe64d;</i></span>
+                <span class="s-txt">举报</span>
+            </a>
+        </dd>
+        <dd class="attach-bottom js-back-top hide">
+            <a href="javascript:;" class="item">
+                <span class="icon-wrap"><i class="iconfont">&#xe64a;</i></span>
+                <span class="s-txt">回到顶部</span>
+            </a>
+        </dd>
+    </dl>
+</div>
+<!-- 右侧工具 --><!--<body  oncontextmenu="return false" onselectstart="return false" oncopy = "return false">-->
+<div class="wrapper">
+    <div class="main">
+        <div class="reader-wrapper js-reader-wrapper">
+            <!-- 封面信息 -->
+            <div class="section">
+                <div class="book-info">
+                    <div class="content">
+                        <div class="book-photo">
+                            <img src="https://cdn.wtzw.com/bookimg/public/images/cover/a3c6/97084948a1c3973105c5b81db57f2891_360x480.jpg" alt="">
+                                                            <i class="icon-sign">已签约</i>
+                                                    </div>
+                        <h1 class="book-name">
+                            <span class="title">我的老婆是总裁</span>
+                            <span class="qm-tags"><em class="orange">连载中</em></span>
+                        </h1>
+                        <span class="author">作者：康帅傅冰红茶</span>
+                        <dl class="copyright-info">
+                                                        <dd>本书授权七猫进行电子制作与发行</dd>
+                                                            <dd>本书纯属虚构·版权所有·侵权必究</dd>
+                            
+                        </dl>
+                    </div>
+                </div>
+            </div>
+            <!-- 封面信息 -->
+
+            <!-- 章节内容 -->
+            <div class="section">
+                <div class="book-cont">
+                    <div class="chapter-info">
+                        <h1 class="title">第1章  第一章职场秘密</h1>
+                        <ul class="info-list">
+                            <li>书名：我的老婆是总裁</li>
+                            <li>作者：康帅傅冰红茶</li>
+                            <li>本章字数：2014</li>
+                                                                <li>更新时间：2020-04-02 16:21:56</li>
+                                                        </ul>
+                    </div>
+                    <div class="article js-article">
+                        <p>毕业就是失业，很多的大学生都面临毕业找工作的压力。</p><p>我幸运，没毕业的时候就已经被李氏集团看中，成功的拿到了入职通知书。</p><p>说起来我并不是一个海国人，我来自陆国，因为没有通过陆国的研究生考试，所以才来到这里读研。</p><p>因为海国的经济在经历过了当年的海河奇迹之后一飞冲天，所以说对于陆国人普遍是看不起，虽然现在陆国也是有钱了，但是海国人依然还是有些看不起陆国人。</p><p>我也是在这样的环境之中读完我的研究生，别的人嘴上不说，但是内心还是这样看起，其实我也对于我能拿到李氏集团的入职通知书也是有些意外。</p><p>入职之后的生活和一般的职场职员基本上都差不多，因为我是新人，而且海国职场特别重视论资排辈，所以说我在公司的地位基本上是最低。</p><p>虽然我是技术部的人员，但是每天的工作基本上就是给领导端茶倒水之类的杂货，我的领导是一个快退休的秃头大叔，年龄不小，同样的脾气也是很大。</p><p>今天领导又不知道因为什么事情不高兴了，办公室的人基本上都是避着那个办公室走。</p><p>“小王，你现在去吧这份资料送给朴总，朴总早上说了这份资料必须在中午之前送到他的办公室。”对我说话的是一个美丽的女人，声音很好听，只不过这个声音在我听起来犹如催命的声音。</p><p>“刚刚李哥给我布置了任务，现在我没有时间去送，要不你自己去送吧？”我的底气有些虚的说道。</p><p>朴喜英瞪了我一眼，明显的脸上出现了一丝不悦之色：“让你去你就去，啰嗦什么？发觉你们这些新人现在越来越懒了，公司要都是你们这样的人早就倒闭了。”</p><p>无奈之下我还是接受了这样一个工作，到了办公室门口，犹豫了一下最终还是推开了那扇门。</p><p>“滚，不知道进办公室需要敲门吗？难道你们陆国人都是这样不懂规矩？”看到我进来朴成勇明显的很生气，不等我说话立刻对我大吵大嚷起来。</p><p>退了出去，在敲门，等到里边说了进来之后我才又一次进到门里边。</p><p>“这是市场部的文件，市场部说这个文件让您签收一下。”把文件送到了朴总的面前，只不过朴总这次连看都没看。</p><p>“我不是让他们把文件中午之前给我送过来吗？你自己看看现在几点了？他们那些人还有时间观念吗……”劈头盖脸对我就是一通痛骂。</p><p>骂骂咧咧十多分钟之后朴总才拿起来文件看了几眼，很明显朴总的脸色变得铁青。</p><p>‘明明这不是我的责任，为什么还要惩罚我？’晚上办公室已经只剩下了我一个人，很明显这就是我今天白天去送文件的后果。</p><p>在职场之中新人永远都是最难的，一开始虽然我已经做好了这样的准备，但是在现实的面前我依然还是觉得自己有些招架不住。</p><p>午夜时分，现在整栋大楼基本上已经没有工作的人，不过我是一个例外，当然朴总的办公室现在还亮着灯。</p><p>门口，楼梯上突然间想起了女士高跟鞋的声音，短暂的时间之后办公室的大门被人刷开了。</p><p>因为我的办公桌位置比较靠后，所以来的女人并没有发现我的存在。</p><p>来的女人我也是认识的，就是上午让我去送文件的朴喜英，只不过现在已经午夜了，朴喜英这个时候来办公室做什么？</p><p>只见到朴喜英并没有去自己的办公桌，相反的朴喜英径直的走进了朴总的办公室。</p><p>要说起来平日办公室之中谁对于朴总的意见最大，那么除了我之外估计就是朴喜英了，但是现在午夜时分朴喜英去朴总办公室做什么？</p><p>我的脑海之中顿时脑补了无数的画面，职场潜规则之类的事情自然我也是知道一些，莫不是现在这样的事情出现在了我的身边？</p><p>理智告诉我这件事情我最好不要去参合，但是或许八卦是人类的天赋吧，很显然我并没有抵挡住内心之中八卦的好奇心，亦步亦趋的走到了朴总办公室的门口。</p><p>“说说今天的情况，你觉得办公室里边现在谁对你的意见最大？”说话的人是朴喜英，但是让我意外的是朴喜英竟然用命令的语气在说话。</p><p>不管是从职位上面还是从工作经历上面朴喜英和朴总的差距不是一般的大，但是现在挺说话的语气我突然间意识到这件事情似乎并没有那么简单。</p><p>“我觉得技术部的小张对我意见是最大的，不过上午你的那个方案我觉得有点太冒失了，毕竟猛然间直接裁员百分之二十是不是有些浮动太大了？”朴成勇的语气有些谦卑，门外的我甚至怀疑里边的人是不是真的朴成勇。</p><p>“这次招的新人全部都要裁掉，你要知道现在公司的效益并不是很好，这次的新人薪资普遍过高，你现在要做的就是裁掉那些新人，而且不能给他们要补偿的理由，我觉得那么陆国人王峰，就是一个很好的突破口，你多在他的身上想想办法，看看能不能吧裁人的动因推到他的身上。”朴喜英思考了下说道。</p><p>门外的我现在已经是呆若木鸡，要知道我在职场里边一向是兢兢业业，但是却没有想到换来这样结果，而且若是真按照朴喜英说的那么我面临的不仅仅是失业问题，很有可能面临牢狱之灾。</p><p>汉国裁人是有很严格的规定，被裁的人必须要给予相当优厚的补偿，但是出了窃取机密以及违法犯罪的事情除外，若是真的按照朴喜英的说法我真的不敢想我会成了什么样子。</p><p>他们后面的话我已经精力去听了，这个消息对于我来说真的是太劲爆了，我必须要好好的消化一下，突然间我明白或许让我进公司本身就是一起阴谋，一起不针对个人而是针对群体的阴谋，而我现在就在这个阴谋的正中心，稍不留神就会万劫不复。</p>                    </div>
+                </div>
+            </div>
+            <!-- 章节内容 -->
+
+                    </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    var nextChapterInfo = {"book_id":"151812","chapter_id":"356857","is_final":"0","is_vip":"0"};
+</script>
+<script src="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/js/jquery-1.10.0.min.js?v=1579418620"></script>
+<script src="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/js/jsPackage.js?v=1579418620"></script>
+<script src="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/js/global.js?v=1584083430"></script>
+<script src="https://cdn.qimao.com/bookimg/zww/frontendstatic/20200313/js/reader/reader.js?v=1579496796456" 0="frontend\assets\AppAsset"></script></body>
+</html>
